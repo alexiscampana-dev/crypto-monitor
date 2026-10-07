@@ -1,0 +1,25 @@
+{
+  "holdings": [
+    {
+      "id": "bitcoin",
+      "amount": 0.12,
+      "avg_price": 61200,
+      "profit_target": 20,
+      "loss_threshold": -10
+    },
+    {
+      "id": "ethereum",
+      "amount": 1.4,
+      "avg_price": 3350,
+      "profit_target": 20,
+      "loss_threshold": -10
+    },
+    {
+      "id": "solana",
+      "amount": 18,
+      "avg_price": 168,
+      "profit_target": 15,
+      "loss_threshold": -12
+    }
+  ]
+}
